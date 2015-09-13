@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1440377573 source:c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\test.c
+	<stdio.h>
+	"Test.h"
+
+1440377118 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\test.h
+	"object.h"
+	"fields.h"
+	"endfields.h"
+	"methods.h"
+	"endmethods.h"
+	"initmethods.h"
+
+1440374733 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\members.h
+
+1440372822 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\endmembers.h
+
+1440373557 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\macros.h
+
+1440377531 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\object.h
+	<stdlib.h>
+
+1440374803 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\init.h
+
+1440374831 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\endinit.h
+
+1440375160 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\fields.h
+
+1440375362 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\endfields.h
+
+1440375334 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\methods.h
+
+1440375377 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\endmethods.h
+
+1440377142 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\initmethods.h
+
+1440377542 source:c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\dog.c
+	<stdio.h>
+	"Dog.h"
+
+1440377638 c:\users\mihir kasmalkar\documents\programs\codeblocks\ooc\dog.h
+	"object.h"
+	"fields.h"
+	"endfields.h"
+	"methods.h"
+	"endmethods.h"
+	"initmethods.h"
+
+1442169768 source:c:\users\mihir kasmalkar\documents\_programs\codeblocks\ooc\dog.c
+	<stdio.h>
+	"Dog.h"
+
+1442173486 c:\users\mihir kasmalkar\documents\_programs\codeblocks\ooc\dog.h
+	"object.h"
+	"members.h"
+	"endmembers.h"
+	"initmethods.h"
+
+1442175510 c:\users\mihir kasmalkar\documents\_programs\codeblocks\ooc\object.h
+	<stdlib.h>
+
+1442173480 c:\users\mihir kasmalkar\documents\_programs\codeblocks\ooc\members.h
+
+1442173861 c:\users\mihir kasmalkar\documents\_programs\codeblocks\ooc\endmembers.h
+
+1442175690 c:\users\mihir kasmalkar\documents\_programs\codeblocks\ooc\initmethods.h
+
+1440377573 source:c:\users\mihir kasmalkar\documents\_programs\codeblocks\ooc\test.c
+	<stdio.h>
+	"Test.h"
+
+1440377118 c:\users\mihir kasmalkar\documents\_programs\codeblocks\ooc\test.h
+	"object.h"
+	"fields.h"
+	"endfields.h"
+	"methods.h"
+	"endmethods.h"
+	"initmethods.h"
+
+1440375362 c:\users\mihir kasmalkar\documents\_programs\codeblocks\ooc\endfields.h
+
+1440375334 c:\users\mihir kasmalkar\documents\_programs\codeblocks\ooc\methods.h
+
